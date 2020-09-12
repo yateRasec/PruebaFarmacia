@@ -1,3 +1,4 @@
 commit inicial
 commit 1 desde el feature 1
+commit 2 desde el feature 1
 este mensaje es desde el hotfix
